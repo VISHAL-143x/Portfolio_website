@@ -47,13 +47,13 @@ function Main() {
             pages; I&apos;m moldable, but I still keep my creative flair intact.
           </p>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
-            <a href="https://www.linkedin.com/in/vishal-patil-09ba61219/">
+            <a href="https://www.linkedin.com/in/Vishalpachpor">
               <div className="rounded-full shadow-lg shadow-gray-400 p-5 cursor-pointer hover:scale-110 ease-in duration-500">
                 <FaLinkedinIn />
               </div>
             </a>
 
-            <a href="https://github.com/VISHAL-143x">
+            <a href="https://github.com/VishalPachpor">
               <div className="rounded-full shadow-lg shadow-gray-400 p-5 cursor-pointer hover:scale-110 ease-in duration-500">
                 <FaGithub />
               </div>
@@ -65,7 +65,7 @@ function Main() {
               </div>
             </a>
 
-            <a href="https://twitter.com/vishalP01113336">
+            <a href="https://twitter.com/0xVishalpatil">
               <div className="rounded-full shadow-lg shadow-gray-400 p-5 cursor-pointer hover:scale-110 ease-in duration-500">
                 <FaTwitter />
               </div>
